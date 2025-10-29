@@ -1,0 +1,14 @@
+HCMA Explainability Report
+============================================================
+
+Number of test samples: 3
+Most important modality: Text (0.400)
+
+Correlation with PHQ-8:
+Audio: r=-0.632, p=0.564
+Text: r=nan, p=nan
+Video: r=0.000, p=1.000
+
+Feature-level attention heatmaps saved in attention_maps folder.
+
+Case studies:

@@ -1,0 +1,2 @@
+model,method,val_mae,val_r2,test_mae,test_rmse,test_r2
+Temporal LSTM,bidirectional_lstm,2.2428656816482544,0.1941580167159327,7.535615523656209,10.1200717245213,-0.8288544948117054

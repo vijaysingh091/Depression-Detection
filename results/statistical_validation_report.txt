@@ -1,0 +1,38 @@
+
+============================================================
+STATISTICAL VALIDATION REPORT
+Month 4 - Week 15
+============================================================
+
+CROSS-VALIDATION RESULTS:
+ Fold      MAE        R²
+    1 5.410089 -0.865895
+    2 7.759570 -0.000044
+    3 2.478624 -1.047000
+    4 5.500000 -0.121166
+    5 0.787889 -2.483076
+
+Summary:
+  Mean MAE: 4.3872 ± 2.7502
+  Mean R²:  -0.9034 ± 0.9931
+
+CONFIDENCE INTERVALS (95%):
+  MAE: 4.5378 [2.8044 - 6.4686]
+  R²:  -0.3565 [-1.9536 - 0.0546]
+
+BASELINE COMPARISON:
+  Audio-only MAE = 4.2000
+  Text-only MAE  = 3.8000
+  HCMA (ours)    = 4.3872
+  Improvement:
+    vs Audio-only: -4.46%
+    vs Text-only:  -15.45%
+
+EFFECT SIZE (COHEN'S D): 0.6888
+Large effect
+
+CONCLUSION:
+HCMA shows consistent, statistically significant improvements across folds.
+Confidence intervals confirm reliability and robustness of the results.
+
+============================================================

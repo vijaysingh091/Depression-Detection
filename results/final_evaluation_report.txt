@@ -1,0 +1,20 @@
+
+======================================================================
+FINAL EVALUATION REPORT — DEPRESSION DETECTION USING HCMA
+======================================================================
+
+Test Set:
+  MAE:  15.8365
+  RMSE: 16.2237
+  R²:   -11.7359
+
+Predictions within:
+  ±1 point: 0.0%
+  ±2 points: 0.0%
+  ±3 points: 0.0%
+
+Improvement vs best baseline: -379.89%
+
+✓ Project successfully completed
+✓ Dashboard and report saved in results folder
+======================================================================

@@ -1,0 +1,2 @@
+model,modalities,num_features,val_mae,val_rmse,val_r2,test_mae,test_rmse,test_r2
+Early Fusion,audio+text+video,143,2.485832255333662,3.477271774386459,-0.9346270388711602,9.944358179966608,12.455942466186332,-1.7705446914454295
